@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PreciousGariya&color=blue)
 
-I’m **[Your Name]**, a developer who thinks coffee is a data type and commits are tiny love letters to the future.  
+I’m **GOKUL**, a developer who thinks coffee is a data type and commits are tiny love letters to the future.  
 
 ### 🛠 What I Do
 - 🖥 **Backend:** Node.js, Express, Laravel, REST APIs, authentication (JWT, RBAC)
