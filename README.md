@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:0ea5e9,100:10b981&height=220&section=header&text=Gokul%20Singh%20Gariya&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Healthcare%20%26%20ABDM%20Integrator&descSize=17&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=Gokul%20Singh%20Gariya&fontSize=45&desc=Full-Stack%20Developer%20%7C%20ABDM%20Integrator&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=650&lines=Building+Healthcare+Platforms+%F0%9F%8F%A5;ABDM+M1+%C2%B7+M2+%C2%B7+M3+Integrator;Laravel+%C2%B7+React+%C2%B7+Next.js;Making+APIs+work+reliably+%E2%9A%A1" alt="Typing SVG" />
 
